@@ -8,6 +8,7 @@
     </head>
     <body class="antialiased">
         <h1>TOKYO TOILET</h1>
+        [<a href='/posts/create'>追加</a>]
         <div class='posts'>
             @foreach ($posts as $post)
             <div class='post'>
